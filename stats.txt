@@ -1,0 +1,2 @@
+First version (pure numpy functions)
+5000 particles, 250x250 space, 1000 time steps: 351.12 s
