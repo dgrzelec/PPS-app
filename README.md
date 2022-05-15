@@ -6,7 +6,9 @@ Rapid-developed an app to calculate and visualize self-structuring particle patt
 - Python: PyQt5, numpy
 
 ### Current state
-Basic UI is done, app is not yet showing nor calculating, work in progress. Class which handles calculations is complete.
+Project halted, waits for a better time.
+
+Basic UI is done, app is not yet showing nor calculating. Class which handles calculations is complete.
 
 You can generate the results using testPPS.py
 
